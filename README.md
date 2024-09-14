@@ -1,7 +1,10 @@
-![h-yw Github Stats](https://github-readme-stats.vercel.app/api?username=h-yw&show_icons=true&theme=cobalt)       
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-yw&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![h-yw github stats](https://github-stats-hyw.vercel.app/api?username=h-yw&show_icons=true&locale=cn&hide=contribs&count_private=true&bg_color=DEG,f671ab,f6d671,71e0f6,76f671&title_color=fff&icon_color=fff&include_all_commits=true)
+
+
+![h-yw top lang](https://github-stats-hyw.vercel.app/api/top-langs/?username=h-yw&layout=normal&card_width=467&locale=cn&count_private=true&bg_color=DEG,f671ab,f6d671,71e0f6,76f671&title_color=fff&icon_color=fff&include_all_commits=true)
 
 <!--### Hi there 👋
+theme=ambient_gradien
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
